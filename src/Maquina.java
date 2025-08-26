@@ -10,7 +10,7 @@ public class Maquina {
         this.inventarioMap = inventarioMap;
     }
 
-    public static void cargarProducto() {
+    public static void cargarProducto(Producto producto) {
 
     }
 
@@ -18,7 +18,7 @@ public class Maquina {
         
     }
 
-    public static void seleccionarProducto() {
+    public static void seleccionarProducto(Persona persona) {
         
     }
 
