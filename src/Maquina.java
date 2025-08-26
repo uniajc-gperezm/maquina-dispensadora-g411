@@ -1,3 +1,6 @@
-public class Maquina {
+import java.util.HashMap;
 
+public class Maquina {
+    private double dineroRecibido;
+   
 }
